@@ -1,0 +1,7 @@
+print("STUDENT DETAILS")
+name=int("enter name")
+print("you have entered",name);
+roll.no=int("enter roll.no")
+print("you have entered",roll.no);
+class=int("enter class")
+print("you have entered",class);
